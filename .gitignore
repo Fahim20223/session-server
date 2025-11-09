@@ -1,1 +1,4 @@
 node_modules
+session-client-firebase-admin.json
+.env
+.vercel
